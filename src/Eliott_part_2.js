@@ -1,6 +1,6 @@
 import React from "react";
 
-function Elliot_part_2() {
+function Eliott_part_2() {
     return (
         <div>
             <h1 className="text-center"><font face="GoodDog New">A new way to learn about the syndrome</font></h1>
