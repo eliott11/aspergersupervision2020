@@ -31,4 +31,4 @@ function Eliott_part_2() {
 
 }
 
-export default Elliot_part_2
+export default Eliott_part_2
